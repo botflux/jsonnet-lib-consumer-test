@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/botflux/jsonnet-lib-test.git",
+          "subdir": ""
+        }
+      },
+      "version": "c18634b034bd1d2029f8c6bf81d0e0f65550e088",
+      "sum": "bvQT6O3S3HkyCL38sBFu3xUW21GRLMrjJkdmUXpdSvA="
+    }
+  ],
+  "legacyImports": false
+}
